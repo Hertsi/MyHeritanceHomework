@@ -25,7 +25,7 @@ void MyDeviceUI::uiShowMenu()
     cout<<"2: Set Touch Pad Information"<<endl;
     cout<<"3: Set Display Information"<<endl;
     cout<<"4: Show Devices Information"<<endl;
-    cout<<"5: Finish Him" <<endl;
+    cout<<"5: Finish settings" <<endl;
 
     cout<<"Choose:"<<endl;
     cin>> valinta;
