@@ -2,7 +2,7 @@
 #define DEVICETOUCHPAD_H
 #include <devicebaseclass.h>
 
-class DeviceTouchPad
+class DeviceTouchPad:public DeviceBaseClass
 {
 public:
     DeviceTouchPad();

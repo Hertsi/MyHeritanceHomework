@@ -2,7 +2,7 @@
 #define DEVICEMOUSE_H
 #include <devicebaseclass.h>
 
-class DeviceMouse
+class DeviceMouse:public DeviceBaseClass
 {
 public:
     DeviceMouse();

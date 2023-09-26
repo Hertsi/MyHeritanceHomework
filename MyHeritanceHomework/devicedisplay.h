@@ -2,7 +2,7 @@
 #define DEVICEDISPLAY_H
 #include <devicebaseclass.h>
 
-class DeviceDisplay
+class DeviceDisplay:public DeviceBaseClass
 {
 public:
     DeviceDisplay();

@@ -8,10 +8,12 @@ SOURCES += \
         devicedisplay.cpp \
         devicemouse.cpp \
         devicetouchpad.cpp \
-        main.cpp
+        main.cpp \
+        mydeviceui.cpp
 
 HEADERS += \
     devicebaseclass.h \
     devicedisplay.h \
     devicemouse.h \
-    devicetouchpad.h
+    devicetouchpad.h \
+    mydeviceui.h

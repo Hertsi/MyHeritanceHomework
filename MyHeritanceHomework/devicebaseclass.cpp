@@ -7,10 +7,11 @@ DeviceBaseClass::DeviceBaseClass()
 
 void DeviceBaseClass::setDeviceID()
 {
-
+    cout <<"Give ID for your device" <<endl;
+    cin >> deviceID;
 }
 
 short DeviceBaseClass::getDeviceID()
 {
-
+    return deviceID;
 }
